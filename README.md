@@ -28,3 +28,7 @@ Libraries Used :-
 4. Webbrowser :- It is used to open the new tab with applied changes
 
 Functioning :- We are going to take the source and destination vertices and then click on the show button which shows the input cities in the console and opens the saved map . Then when we click the zoom in button the number of cities between the input cities increases as we plot the cities within a specific range related to the cities and same goes with the zoom out button , the number of cities decreases as we then plot the cities with the changed range . But to apply change we had to reload the html page in order to get the updated map . On the other hand when we click the zoom in or zoom out button , an array is created with the name of nearby cities between the input cities and gets displayed on the UI.
+
+Group Members :- 
+Palash Jhanwar ( 3rd Year , Shri Ramdeobaba College of Engineering and Management , Nagpur ) 
+Smit Kukadapwar ( 3rd Year , Shri Ramdeobaba College of Engineering and Management , Nagpur ) 
